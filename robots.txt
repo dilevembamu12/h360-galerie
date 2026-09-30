@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+# Inventaires lisibles par les outils et assistants IA :
+# /asset-manifest.json — /data/galerie.json — /llms.txt
+
+Sitemap: https://dilevembamu12.github.io/h360-galerie/sitemap.xml

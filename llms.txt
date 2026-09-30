@@ -1,0 +1,31 @@
+# H360 — Galerie des illustrations
+
+> Galerie statique officielle des visuels H360 (en français) : logos, couvertures vidéo,
+> captures et visuels de campagne — chacun avec son titre, sa légende, ses tags et ses
+> métadonnées. Conçue pour être lue par des humains… et par des outils comme Pomelli (Google Labs).
+
+## À lire en priorité
+
+- [asset-manifest.json](/asset-manifest.json) — inventaire complet et machine : titre, légende,
+  tags, fichier, dimensions, poids, durée (couvrant chaque visuel).
+- [data/galerie.json](/data/galerie.json) — mêmes données, format utilisé par le site.
+- [index.html](/index.html) — la galerie (page unique, 100 % statique).
+
+## Marque H360
+
+- Nom : H360
+- Positionnement : logiciel + équipe pour entreprises multi-sites — caisse et ventes, stocks,
+  devises, sites commerciaux, automatisation WhatsApp et IA.
+- Offres : H360 Business — Partner · Dedicated · Full.
+- Signature : « Vos opérations, notre expertise. »
+- Promesse : « Concentrez-vous sur votre métier. On s'occupe du reste. »
+- Appel à l'action : « Demandez votre diagnostic gratuit. »
+- Couleurs : Bleu H360 `#1877F2` · Bleu foncé `#1665C0` · Orange H360 `#FF7900` · Blanc `#FFFFFF`.
+- Typographie : Inter (utilisée dans les productions ; police officielle à valider).
+
+## Usage des visuels
+
+- Les légendes sont en français et libres de réutilisation pour les supports H360.
+- Les visuels sont © H360 — reproduction hors supports H360 soumise à autorisation.
+- Trois versions du logo : fond clair → couleur · fond sombre → blanc · fond incontrôlé → fond bleu.
+  Ne jamais déformer, recolorer ni ajouter d'effet.
